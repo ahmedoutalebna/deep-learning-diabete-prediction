@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+mlflow
+tensorflow
+shap
+lime
+codecarbon
+plotly
+torch
+torchvision
