@@ -1,0 +1,3 @@
+Baseline Model Optimal Threshold: 0.39 with F1 Score: 0.7675
+Extended Model Optimal Threshold: 0.38 with F1 Score: 0.7636
+ResNet Model Optimal Threshold: 0.41 with F1 Score: 0.7631
