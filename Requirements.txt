@@ -12,3 +12,7 @@ codecarbon
 plotly
 torch
 torchvision
+xgboost
+fastapi
+uvicorn
+optuna
